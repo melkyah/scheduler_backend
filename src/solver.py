@@ -35,11 +35,12 @@ def main():
 
     num_residents = 6
     num_days = 30
-#   num_weekdays = 7
     all_residents = range(num_residents)
     all_days = range(num_days)
-#   all_weekdays = range(num_weekdays)
-#   friday_sunday = True
+    friday_sunday = True
+#   Esta variable define que cae el primer dia del mes
+    first_week_day = 3 #Jueves
+
     resident_0_off = [1, 14, 7, 23]
     resident_1_off = [3, 14, 18, 20]
     resident_2_off = [8, 10, 18, 29]
@@ -47,6 +48,9 @@ def main():
     resident_4_off = [5, 6, 7, 8]
     resident_5_off = [3, 8, 12, 20]
 #   workers_per_weekday = [2, 1, 2, 2, 2, 1, 2]
+
+    weekDays = _assign_weekdays(first_week_day, all_days)
+
 
     # create Model
     model = cp_model.CpModel()
@@ -70,7 +74,7 @@ def main():
     # divide the total number of shifts over the schedule period,
     # some residents have to work one more shift, for a total of
     # resident + 1.
-    min_shifts_per_resident = 4
+    min_shifts_per_resident = 1
     max_shifts_per_resident = 8
     for r in all_residents:
         num_shifts_worked = sum(
@@ -92,7 +96,7 @@ def main():
     for o in resident_5_off:
         model.Add(shifts[(5, o)] == 0)
 
-    # Adds constraint to prevent residents from working two consecutive days
+    # Add constraint to prevent residents from working two consecutive days
     for r in all_residents:
         for d in all_days:
             if d < 29:
@@ -100,6 +104,16 @@ def main():
                 model.Add(
                     (shifts[(r, d)] + shifts[(r, next_day)]) <= 1
                 )
+
+    # Add constraint to ensure working friday + sunday if set to true
+    if friday_sunday:
+        for r in all_residents:
+            for d in all_days:
+                if weekDays[d] == 4 and d < 27:
+                    model.Add(
+                        (shifts[(r, d)] + shifts[(r, d+2)]) == (2 or 0)
+                    )
+
 
     # Creates the solver and solve.
     solver = cp_model.CpSolver()
@@ -120,6 +134,19 @@ def main():
     print('  - wall time       : %f s' % solver.WallTime())
     print('  - solutions found : %i' % solution_printer.solution_count())
 
+def _update_weekday(weekday):
+    if weekday < 6:
+        return weekday + 1
+    elif weekday == 6:
+        return 0
+
+def _assign_weekdays(first_day, days):
+    days_weeks = {}
+    current_weekday = first_day
+    for d in days:
+        days_weeks[d] = current_weekday
+        current_weekday = _update_weekday(current_weekday)
+    return days_weeks
 
 if __name__ == '__main__':
     main()

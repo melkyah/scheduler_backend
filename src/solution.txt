@@ -17,42 +17,42 @@ Day 2
   Resident 0 does not work
   Resident 1 does not work
   Resident 2 does not work
-  Resident 3 does not work
+  Resident 3 works day 2
   Resident 4 does not work
-  Resident 5 works day 2
+  Resident 5 does not work
 Day 3
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 3
   Resident 3 does not work
-  Resident 4 works day 3
+  Resident 4 does not work
   Resident 5 does not work
 Day 4
   Resident 0 does not work
-  Resident 1 does not work
+  Resident 1 works day 4
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 works day 4
+  Resident 5 does not work
 Day 5
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
-  Resident 3 works day 5
+  Resident 2 works day 5
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 6
-  Resident 0 does not work
+  Resident 0 works day 6
   Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 works day 6
+  Resident 5 does not work
 Day 7
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
-  Resident 3 works day 7
+  Resident 2 works day 7
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 8
@@ -65,28 +65,28 @@ Day 8
 Day 9
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 9
   Resident 3 does not work
-  Resident 4 works day 9
+  Resident 4 does not work
   Resident 5 does not work
 Day 10
   Resident 0 does not work
-  Resident 1 does not work
+  Resident 1 works day 10
   Resident 2 does not work
-  Resident 3 works day 10
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 11
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 11
   Resident 3 does not work
-  Resident 4 works day 11
+  Resident 4 does not work
   Resident 5 does not work
 Day 12
-  Resident 0 does not work
+  Resident 0 works day 12
   Resident 1 does not work
-  Resident 2 works day 12
+  Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
@@ -112,103 +112,103 @@ Day 15
   Resident 4 does not work
   Resident 5 does not work
 Day 16
-  Resident 0 works day 16
+  Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 16
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 17
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 works day 17
-  Resident 3 does not work
+  Resident 2 does not work
+  Resident 3 works day 17
   Resident 4 does not work
   Resident 5 does not work
 Day 18
-  Resident 0 works day 18
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 18
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 19
-  Resident 0 does not work
-  Resident 1 does not work
-  Resident 2 works day 19
-  Resident 3 does not work
-  Resident 4 does not work
-  Resident 5 does not work
-Day 20
-  Resident 0 works day 20
+  Resident 0 works day 19
   Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
-Day 21
+Day 20
   Resident 0 does not work
-  Resident 1 works day 21
+  Resident 1 does not work
+  Resident 2 does not work
+  Resident 3 does not work
+  Resident 4 does not work
+  Resident 5 works day 20
+Day 21
+  Resident 0 works day 21
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 22
-  Resident 0 works day 22
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 22
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 23
-  Resident 0 does not work
-  Resident 1 works day 23
+  Resident 0 works day 23
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 24
-  Resident 0 works day 24
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 24
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 25
-  Resident 0 does not work
-  Resident 1 works day 25
+  Resident 0 works day 25
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 26
-  Resident 0 works day 26
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 26
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 27
-  Resident 0 does not work
-  Resident 1 works day 27
+  Resident 0 works day 27
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 28
-  Resident 0 works day 28
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 28
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 29
   Resident 0 does not work
-  Resident 1 works day 29
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 does not work
+  Resident 5 works day 29
 
 Solution 1
 Day 0
@@ -235,36 +235,36 @@ Day 2
 Day 3
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 3
   Resident 3 does not work
-  Resident 4 works day 3
+  Resident 4 does not work
   Resident 5 does not work
 Day 4
   Resident 0 does not work
-  Resident 1 does not work
+  Resident 1 works day 4
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 works day 4
+  Resident 5 does not work
 Day 5
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
-  Resident 3 works day 5
+  Resident 2 works day 5
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 6
-  Resident 0 does not work
+  Resident 0 works day 6
   Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 works day 6
+  Resident 5 does not work
 Day 7
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
-  Resident 3 works day 7
+  Resident 2 works day 7
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 8
@@ -277,28 +277,28 @@ Day 8
 Day 9
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 9
   Resident 3 does not work
-  Resident 4 works day 9
+  Resident 4 does not work
   Resident 5 does not work
 Day 10
   Resident 0 does not work
-  Resident 1 does not work
+  Resident 1 works day 10
   Resident 2 does not work
-  Resident 3 works day 10
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 11
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 11
   Resident 3 does not work
-  Resident 4 works day 11
+  Resident 4 does not work
   Resident 5 does not work
 Day 12
-  Resident 0 does not work
+  Resident 0 works day 12
   Resident 1 does not work
-  Resident 2 works day 12
+  Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
@@ -324,103 +324,103 @@ Day 15
   Resident 4 does not work
   Resident 5 does not work
 Day 16
-  Resident 0 works day 16
+  Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 16
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 17
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 works day 17
-  Resident 3 does not work
+  Resident 2 does not work
+  Resident 3 works day 17
   Resident 4 does not work
   Resident 5 does not work
 Day 18
   Resident 0 does not work
-  Resident 1 does not work
+  Resident 1 works day 18
   Resident 2 does not work
-  Resident 3 works day 18
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 19
-  Resident 0 does not work
+  Resident 0 works day 19
   Resident 1 does not work
-  Resident 2 works day 19
+  Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 20
-  Resident 0 works day 20
+  Resident 0 does not work
   Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 does not work
+  Resident 5 works day 20
 Day 21
-  Resident 0 does not work
-  Resident 1 works day 21
+  Resident 0 works day 21
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 22
-  Resident 0 works day 22
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 22
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 23
-  Resident 0 does not work
-  Resident 1 works day 23
+  Resident 0 works day 23
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 24
-  Resident 0 works day 24
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 24
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 25
-  Resident 0 does not work
-  Resident 1 works day 25
+  Resident 0 works day 25
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 26
-  Resident 0 works day 26
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 26
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 27
-  Resident 0 does not work
-  Resident 1 works day 27
+  Resident 0 works day 27
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 28
-  Resident 0 works day 28
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 28
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 29
   Resident 0 does not work
-  Resident 1 works day 29
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 does not work
+  Resident 5 works day 29
 
 Solution 2
 Day 0
@@ -433,50 +433,50 @@ Day 0
 Day 1
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 1
   Resident 3 does not work
-  Resident 4 works day 1
+  Resident 4 does not work
   Resident 5 does not work
 Day 2
   Resident 0 does not work
   Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
-  Resident 4 does not work
-  Resident 5 works day 2
+  Resident 4 works day 2
+  Resident 5 does not work
 Day 3
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 3
   Resident 3 does not work
-  Resident 4 works day 3
+  Resident 4 does not work
   Resident 5 does not work
 Day 4
   Resident 0 does not work
-  Resident 1 does not work
+  Resident 1 works day 4
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 works day 4
+  Resident 5 does not work
 Day 5
   Resident 0 does not work
-  Resident 1 works day 5
-  Resident 2 does not work
+  Resident 1 does not work
+  Resident 2 works day 5
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 6
-  Resident 0 does not work
+  Resident 0 works day 6
   Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 works day 6
+  Resident 5 does not work
 Day 7
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
-  Resident 3 works day 7
+  Resident 2 works day 7
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 8
@@ -489,28 +489,28 @@ Day 8
 Day 9
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 9
   Resident 3 does not work
-  Resident 4 works day 9
+  Resident 4 does not work
   Resident 5 does not work
 Day 10
   Resident 0 does not work
-  Resident 1 does not work
+  Resident 1 works day 10
   Resident 2 does not work
-  Resident 3 works day 10
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 11
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 11
   Resident 3 does not work
-  Resident 4 works day 11
+  Resident 4 does not work
   Resident 5 does not work
 Day 12
-  Resident 0 does not work
+  Resident 0 works day 12
   Resident 1 does not work
-  Resident 2 works day 12
+  Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
@@ -536,158 +536,158 @@ Day 15
   Resident 4 does not work
   Resident 5 does not work
 Day 16
-  Resident 0 works day 16
+  Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 16
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 17
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 works day 17
-  Resident 3 does not work
+  Resident 2 does not work
+  Resident 3 works day 17
   Resident 4 does not work
   Resident 5 does not work
 Day 18
   Resident 0 does not work
-  Resident 1 does not work
+  Resident 1 works day 18
   Resident 2 does not work
-  Resident 3 works day 18
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 19
-  Resident 0 does not work
+  Resident 0 works day 19
   Resident 1 does not work
-  Resident 2 works day 19
+  Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 20
-  Resident 0 works day 20
+  Resident 0 does not work
   Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 does not work
+  Resident 5 works day 20
 Day 21
-  Resident 0 does not work
-  Resident 1 works day 21
+  Resident 0 works day 21
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 22
-  Resident 0 works day 22
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 22
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 23
-  Resident 0 does not work
-  Resident 1 works day 23
+  Resident 0 works day 23
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 24
-  Resident 0 works day 24
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 24
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 25
-  Resident 0 does not work
-  Resident 1 works day 25
+  Resident 0 works day 25
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 26
-  Resident 0 works day 26
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 26
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 27
-  Resident 0 does not work
-  Resident 1 works day 27
+  Resident 0 works day 27
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 28
-  Resident 0 works day 28
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 28
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 29
   Resident 0 does not work
-  Resident 1 works day 29
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 does not work
+  Resident 5 works day 29
 
 Solution 3
 Day 0
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 0
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 works day 0
+  Resident 5 does not work
 Day 1
   Resident 0 does not work
   Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
-  Resident 4 works day 1
-  Resident 5 does not work
+  Resident 4 does not work
+  Resident 5 works day 1
 Day 2
   Resident 0 does not work
   Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
-  Resident 4 does not work
-  Resident 5 works day 2
+  Resident 4 works day 2
+  Resident 5 does not work
 Day 3
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 3
   Resident 3 does not work
-  Resident 4 works day 3
+  Resident 4 does not work
   Resident 5 does not work
 Day 4
   Resident 0 does not work
-  Resident 1 does not work
+  Resident 1 works day 4
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 works day 4
+  Resident 5 does not work
 Day 5
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
-  Resident 3 works day 5
+  Resident 2 works day 5
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 6
-  Resident 0 does not work
+  Resident 0 works day 6
   Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 works day 6
+  Resident 5 does not work
 Day 7
   Resident 0 does not work
-  Resident 1 works day 7
-  Resident 2 does not work
+  Resident 1 does not work
+  Resident 2 works day 7
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
@@ -701,28 +701,28 @@ Day 8
 Day 9
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 9
   Resident 3 does not work
-  Resident 4 works day 9
+  Resident 4 does not work
   Resident 5 does not work
 Day 10
   Resident 0 does not work
-  Resident 1 does not work
+  Resident 1 works day 10
   Resident 2 does not work
-  Resident 3 works day 10
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 11
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 11
   Resident 3 does not work
-  Resident 4 works day 11
+  Resident 4 does not work
   Resident 5 does not work
 Day 12
-  Resident 0 does not work
+  Resident 0 works day 12
   Resident 1 does not work
-  Resident 2 works day 12
+  Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
@@ -748,112 +748,112 @@ Day 15
   Resident 4 does not work
   Resident 5 does not work
 Day 16
-  Resident 0 works day 16
+  Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 16
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 17
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 works day 17
-  Resident 3 does not work
+  Resident 2 does not work
+  Resident 3 works day 17
   Resident 4 does not work
   Resident 5 does not work
 Day 18
   Resident 0 does not work
-  Resident 1 does not work
+  Resident 1 works day 18
   Resident 2 does not work
-  Resident 3 works day 18
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 19
-  Resident 0 does not work
+  Resident 0 works day 19
   Resident 1 does not work
-  Resident 2 works day 19
+  Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 20
-  Resident 0 works day 20
+  Resident 0 does not work
   Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 does not work
+  Resident 5 works day 20
 Day 21
-  Resident 0 does not work
-  Resident 1 works day 21
+  Resident 0 works day 21
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 22
-  Resident 0 works day 22
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 22
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 23
-  Resident 0 does not work
-  Resident 1 works day 23
+  Resident 0 works day 23
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 24
-  Resident 0 works day 24
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 24
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 25
-  Resident 0 does not work
-  Resident 1 works day 25
+  Resident 0 works day 25
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 26
-  Resident 0 works day 26
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 26
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 27
-  Resident 0 does not work
-  Resident 1 works day 27
+  Resident 0 works day 27
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 28
-  Resident 0 works day 28
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 28
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 29
   Resident 0 does not work
-  Resident 1 works day 29
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 does not work
+  Resident 5 works day 29
 
 Solution 4
 Day 0
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 0
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 works day 0
+  Resident 5 does not work
 Day 1
   Resident 0 does not work
   Resident 1 does not work
@@ -871,35 +871,35 @@ Day 2
 Day 3
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 3
   Resident 3 does not work
-  Resident 4 works day 3
+  Resident 4 does not work
   Resident 5 does not work
 Day 4
   Resident 0 does not work
-  Resident 1 does not work
+  Resident 1 works day 4
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 works day 4
+  Resident 5 does not work
 Day 5
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
-  Resident 3 works day 5
+  Resident 2 works day 5
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 6
-  Resident 0 does not work
+  Resident 0 works day 6
   Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 works day 6
+  Resident 5 does not work
 Day 7
   Resident 0 does not work
-  Resident 1 works day 7
-  Resident 2 does not work
+  Resident 1 does not work
+  Resident 2 works day 7
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
@@ -913,28 +913,28 @@ Day 8
 Day 9
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 9
   Resident 3 does not work
-  Resident 4 works day 9
+  Resident 4 does not work
   Resident 5 does not work
 Day 10
   Resident 0 does not work
-  Resident 1 does not work
+  Resident 1 works day 10
   Resident 2 does not work
-  Resident 3 works day 10
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 11
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 11
   Resident 3 does not work
-  Resident 4 works day 11
+  Resident 4 does not work
   Resident 5 does not work
 Day 12
-  Resident 0 does not work
+  Resident 0 works day 12
   Resident 1 does not work
-  Resident 2 works day 12
+  Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
@@ -953,114 +953,120 @@ Day 14
   Resident 4 does not work
   Resident 5 does not work
 Day 15
-  Resident 0 works day 15
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 15
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 16
   Resident 0 does not work
-  Resident 1 works day 16
-  Resident 2 does not work
+  Resident 1 does not work
+  Resident 2 works day 16
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 17
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 works day 17
-  Resident 3 does not work
+  Resident 2 does not work
+  Resident 3 works day 17
   Resident 4 does not work
   Resident 5 does not work
 Day 18
   Resident 0 does not work
-  Resident 1 does not work
+  Resident 1 works day 18
   Resident 2 does not work
-  Resident 3 works day 18
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 19
-  Resident 0 does not work
+  Resident 0 works day 19
   Resident 1 does not work
-  Resident 2 works day 19
+  Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 20
-  Resident 0 works day 20
+  Resident 0 does not work
   Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 does not work
+  Resident 5 works day 20
 Day 21
-  Resident 0 does not work
-  Resident 1 works day 21
+  Resident 0 works day 21
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 22
-  Resident 0 works day 22
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 22
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 23
-  Resident 0 does not work
-  Resident 1 works day 23
+  Resident 0 works day 23
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 24
-  Resident 0 works day 24
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 24
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 25
-  Resident 0 does not work
-  Resident 1 works day 25
+  Resident 0 works day 25
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 26
-  Resident 0 works day 26
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 26
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 27
-  Resident 0 does not work
-  Resident 1 works day 27
+  Resident 0 works day 27
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 28
-  Resident 0 works day 28
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 28
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 29
   Resident 0 does not work
-  Resident 1 works day 29
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
-  Resident 5 does not work
+  Resident 5 works day 29
 
 
 Statistics
-  - conflicts       : 5
-  - branches        : 1362629
-  - wall time       : 4.109429 s
-  - solutions found : 20441
+  - conflicts       : 57
+  - branches        : 14152493
+  - wall time       : 48.642806 s
+  - solutions found : 189720
+
+Statistics
+  - conflicts       : 0
+  - branches        : 0
+  - wall time       : 0.000842 s
+  - solutions found : 0
