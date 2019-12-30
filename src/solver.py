@@ -5,19 +5,22 @@ from pprint import pprint
 class ResidentsPartialSolutionPrinter(cp_model.CpSolverSolutionCallback):
     """Print intermediate solutions."""
 
-    def __init__(self, shifts, num_residents, num_days, sols):
+    def __init__(self, shifts, num_residents, num_days, sols, weekday_names, weekday_calendar, limit):
         cp_model.CpSolverSolutionCallback.__init__(self)
         self._shifts = shifts
         self._num_residents = num_residents
         self._num_days = num_days
         self._solutions = set(sols)
         self._solution_count = 0
+        self._weekday_names = weekday_names
+        self._weekday_calendar = weekday_calendar
+        self._solution_limit = limit
 
     def on_solution_callback(self):
         if self._solution_count in self._solutions:
-            print('Solution %i' % self._solution_count)
+            print(f"Solution {self._solution_count + 1}")
             for d in range(self._num_days):
-                print('Day %i' % (d+1))
+                print(f"Day {d+1} - {self._weekday_names[self._weekday_calendar[d]]}")
                 for n in range(self._num_residents):
                     is_working = False
                     if self.Value(self._shifts[(n, d)]):
@@ -26,7 +29,11 @@ class ResidentsPartialSolutionPrinter(cp_model.CpSolverSolutionCallback):
                     if not is_working:
                         print('  Resident {} does not work'.format(n))
             print()
-        self._solution_count += 1
+        if self._solution_count + 1 >= self._solution_limit:
+            print(f"Solution search limit number reached after {self._solution_count + 1}. Stopping search.")
+            self.StopSearch()
+        else:
+            self._solution_count += 1
 
     def solution_count(self):
         return self._solution_count
@@ -40,6 +47,16 @@ def main():
     friday_sunday = True
 #   Esta variable define que cae el primer dia del mes
     first_week_day = 3 #Jueves
+    calendar_weekdays = _assign_weekdays(first_week_day, all_days)
+    weekday_names = [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+    ]
 
     resident_0_off = [1, 14, 7, 23]
     resident_1_off = [3, 14, 18, 20]
@@ -49,11 +66,10 @@ def main():
     resident_5_off = [3, 8, 12, 20]
 #   workers_per_weekday = [2, 1, 2, 2, 2, 1, 2]
 
-    weekDays = _assign_weekdays(first_week_day, all_days)
-
-
     # create Model
     model = cp_model.CpModel()
+    # Sets limit for created solutions
+    solution_limit = 10000
 
     # Creates shift variables.
     # shifts[(r, d)]: resident 'r' works on day 'd'.
@@ -113,7 +129,7 @@ def main():
     if friday_sunday:
         for r in all_residents:
             for d in all_days:
-                if weekDays[d] == 4 and d < 27:
+                if calendar_weekdays[d] == 4 and d < 27:
     #               pprint("Busqueda de viernes...")
     #               pprint(f"Par de Viernes y domingo para residente {r}:")
     #               pprint(f"Viernes: {shifts[(r, d)]}")
@@ -128,17 +144,17 @@ def main():
     # Display the first five solutions.
     a_few_solutions = range(5)
     solution_printer = ResidentsPartialSolutionPrinter(shifts, num_residents,
-                                                    num_days, a_few_solutions)
+                                                    num_days, a_few_solutions, weekday_names, calendar_weekdays, solution_limit)
 
     solver.SearchForAllSolutions(model, solution_printer)
 
     # Statistics.
     print()
     print('Statistics')
-    print('  - conflicts       : %i' % solver.NumConflicts())
-    print('  - branches        : %i' % solver.NumBranches())
-    print('  - wall time       : %f s' % solver.WallTime())
-    print('  - solutions found : %i' % solution_printer.solution_count())
+    print(f'  - conflicts       : {solver.NumConflicts()}')
+    print(f'  - branches        : {solver.NumBranches()}')
+    print(f'  - wall time       : {solver.WallTime()} s')
+    print(f'  - solutions found : {solution_printer.solution_count() + 1}')
 
 def _update_weekday(weekday):
     if weekday < 6:
