@@ -37,7 +37,7 @@ def main():
     num_days = 30
     all_residents = range(num_residents)
     all_days = range(num_days)
-    friday_sunday = True
+    friday_sunday = False
 #   Esta variable define que cae el primer dia del mes
     first_week_day = 3 #Jueves
 
@@ -66,7 +66,9 @@ def main():
 
     # Each shift is assigned to exactly one resident in the schedule period.
     for d in all_days:
-            model.Add((sum(shifts[(r, d)] for r in all_residents) == 1 ) or (sum(shifts[(r, d)] for r in all_residents) == 2 ))
+            model.Add((sum(shifts[(r, d)] for r in all_residents) < 3 ))
+    for d in all_days:
+            model.Add((sum(shifts[(r, d)] for r in all_residents) > 0 ))
     
 
     # min_shifts_per_resident is the largest integer such that every resident
@@ -74,7 +76,7 @@ def main():
     # divide the total number of shifts over the schedule period,
     # some residents have to work one more shift, for a total of
     # resident + 1.
-    min_shifts_per_resident = 1
+    min_shifts_per_resident = 8
     max_shifts_per_resident = 8
     for r in all_residents:
         num_shifts_worked = sum(
