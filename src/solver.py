@@ -17,12 +17,12 @@ class ResidentsPartialSolutionPrinter(cp_model.CpSolverSolutionCallback):
         if self._solution_count in self._solutions:
             print('Solution %i' % self._solution_count)
             for d in range(self._num_days):
-                print('Day %i' % d)
+                print('Day %i' % (d+1))
                 for n in range(self._num_residents):
                     is_working = False
                     if self.Value(self._shifts[(n, d)]):
                         is_working = True
-                        print('  Resident %i works day %i' % (n, d))
+                        print('  Resident %i works day %i' % (n, d+1))
                     if not is_working:
                         print('  Resident {} does not work'.format(n))
             print()
@@ -37,7 +37,7 @@ def main():
     num_days = 30
     all_residents = range(num_residents)
     all_days = range(num_days)
-    friday_sunday = False
+    friday_sunday = True
 #   Esta variable define que cae el primer dia del mes
     first_week_day = 3 #Jueves
 
@@ -108,14 +108,18 @@ def main():
                 )
 
     # Add constraint to ensure working friday + sunday if set to true
+
+
     if friday_sunday:
         for r in all_residents:
             for d in all_days:
                 if weekDays[d] == 4 and d < 27:
-                    model.Add(
-                        (shifts[(r, d)] + shifts[(r, d+2)]) == (2 or 0)
-                    )
-
+    #               pprint("Busqueda de viernes...")
+    #               pprint(f"Par de Viernes y domingo para residente {r}:")
+    #               pprint(f"Viernes: {shifts[(r, d)]}")
+    #               pprint(f"Domingo: {shifts[(r, d+2)]}")
+                    model.AddBoolAnd([shifts[(r, d)], shifts[r, d+2]]).OnlyEnforceIf(shifts[(r, d)])
+                    
 
     # Creates the solver and solve.
     solver = cp_model.CpSolver()
