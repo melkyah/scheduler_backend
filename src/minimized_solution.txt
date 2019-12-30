@@ -1,133 +1,133 @@
-Solution 5
+Solution 1
 Day 1 - Thursday
   Resident 0 does not work
   Resident 1 does not work
   Resident 2 does not work
-  Resident 3 works day 1
-  Resident 4 does not work
+  Resident 3 does not work
+  Resident 4 works day 1
   Resident 5 works day 1
 Day 2 - Friday
-  Resident 0 does not work
+  Resident 0 works day 2
   Resident 1 does not work
-  Resident 2 works day 2
-  Resident 3 does not work
-  Resident 4 works day 2
+  Resident 2 does not work
+  Resident 3 works day 2
+  Resident 4 does not work
   Resident 5 does not work
 Day 3 - Saturday
   Resident 0 does not work
   Resident 1 does not work
   Resident 2 does not work
-  Resident 3 works day 3
-  Resident 4 does not work
+  Resident 3 does not work
+  Resident 4 works day 3
   Resident 5 works day 3
 Day 4 - Sunday
-  Resident 0 does not work
+  Resident 0 works day 4
   Resident 1 does not work
-  Resident 2 works day 4
-  Resident 3 does not work
-  Resident 4 works day 4
+  Resident 2 does not work
+  Resident 3 works day 4
+  Resident 4 does not work
   Resident 5 does not work
 Day 5 - Monday
   Resident 0 does not work
   Resident 1 does not work
   Resident 2 does not work
-  Resident 3 works day 5
-  Resident 4 does not work
-  Resident 5 does not work
+  Resident 3 does not work
+  Resident 4 works day 5
+  Resident 5 works day 5
 Day 6 - Tuesday
   Resident 0 does not work
-  Resident 1 does not work
-  Resident 2 does not work
-  Resident 3 does not work
-  Resident 4 does not work
-  Resident 5 works day 6
-Day 7 - Wednesday
-  Resident 0 does not work
-  Resident 1 works day 7
+  Resident 1 works day 6
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
-Day 8 - Thursday
+Day 7 - Wednesday
   Resident 0 does not work
   Resident 1 does not work
+  Resident 2 does not work
+  Resident 3 does not work
+  Resident 4 works day 7
+  Resident 5 works day 7
+Day 8 - Thursday
+  Resident 0 does not work
+  Resident 1 works day 8
   Resident 2 does not work
   Resident 3 works day 8
   Resident 4 does not work
   Resident 5 does not work
 Day 9 - Friday
-  Resident 0 works day 9
-  Resident 1 works day 9
+  Resident 0 does not work
+  Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
-  Resident 4 does not work
-  Resident 5 does not work
+  Resident 4 works day 9
+  Resident 5 works day 9
 Day 10 - Saturday
   Resident 0 does not work
-  Resident 1 does not work
-  Resident 2 does not work
-  Resident 3 does not work
-  Resident 4 works day 10
-  Resident 5 works day 10
-Day 11 - Sunday
-  Resident 0 works day 11
-  Resident 1 works day 11
-  Resident 2 does not work
+  Resident 1 works day 10
+  Resident 2 works day 10
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
-Day 12 - Monday
+Day 11 - Sunday
   Resident 0 does not work
   Resident 1 does not work
   Resident 2 does not work
   Resident 3 does not work
-  Resident 4 works day 12
-  Resident 5 works day 12
+  Resident 4 works day 11
+  Resident 5 works day 11
+Day 12 - Monday
+  Resident 0 does not work
+  Resident 1 works day 12
+  Resident 2 does not work
+  Resident 3 does not work
+  Resident 4 does not work
+  Resident 5 does not work
 Day 13 - Tuesday
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 works day 13
+  Resident 2 does not work
   Resident 3 does not work
-  Resident 4 does not work
-  Resident 5 does not work
+  Resident 4 works day 13
+  Resident 5 works day 13
 Day 14 - Wednesday
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
+  Resident 2 works day 14
   Resident 3 does not work
-  Resident 4 works day 14
-  Resident 5 works day 14
+  Resident 4 does not work
+  Resident 5 does not work
 Day 15 - Thursday
   Resident 0 does not work
   Resident 1 does not work
   Resident 2 does not work
-  Resident 3 works day 15
+  Resident 3 does not work
   Resident 4 does not work
-  Resident 5 does not work
+  Resident 5 works day 15
 Day 16 - Friday
-  Resident 0 does not work
+  Resident 0 works day 16
   Resident 1 does not work
   Resident 2 works day 16
   Resident 3 does not work
-  Resident 4 works day 16
+  Resident 4 does not work
   Resident 5 does not work
 Day 17 - Saturday
   Resident 0 does not work
   Resident 1 works day 17
   Resident 2 does not work
-  Resident 3 does not work
+  Resident 3 works day 17
   Resident 4 does not work
-  Resident 5 works day 17
+  Resident 5 does not work
 Day 18 - Sunday
-  Resident 0 does not work
+  Resident 0 works day 18
   Resident 1 does not work
   Resident 2 works day 18
   Resident 3 does not work
-  Resident 4 works day 18
+  Resident 4 does not work
   Resident 5 does not work
 Day 19 - Monday
-  Resident 0 works day 19
-  Resident 1 does not work
+  Resident 0 does not work
+  Resident 1 works day 19
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
@@ -135,9 +135,9 @@ Day 19 - Monday
 Day 20 - Tuesday
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 does not work
-  Resident 3 works day 20
-  Resident 4 works day 20
+  Resident 2 works day 20
+  Resident 3 does not work
+  Resident 4 does not work
   Resident 5 does not work
 Day 21 - Wednesday
   Resident 0 works day 21
@@ -148,79 +148,78 @@ Day 21 - Wednesday
   Resident 5 does not work
 Day 22 - Thursday
   Resident 0 does not work
-  Resident 1 does not work
+  Resident 1 works day 22
   Resident 2 does not work
-  Resident 3 works day 22
+  Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 23 - Friday
   Resident 0 works day 23
-  Resident 1 works day 23
-  Resident 2 does not work
+  Resident 1 does not work
+  Resident 2 works day 23
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 24 - Saturday
   Resident 0 does not work
-  Resident 1 does not work
-  Resident 2 works day 24
+  Resident 1 works day 24
+  Resident 2 does not work
   Resident 3 works day 24
   Resident 4 does not work
   Resident 5 does not work
 Day 25 - Sunday
   Resident 0 works day 25
-  Resident 1 works day 25
-  Resident 2 does not work
+  Resident 1 does not work
+  Resident 2 works day 25
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 26 - Monday
   Resident 0 does not work
   Resident 1 does not work
-  Resident 2 works day 26
-  Resident 3 does not work
+  Resident 2 does not work
+  Resident 3 works day 26
   Resident 4 does not work
   Resident 5 does not work
 Day 27 - Tuesday
   Resident 0 does not work
-  Resident 1 works day 27
-  Resident 2 does not work
+  Resident 1 does not work
+  Resident 2 works day 27
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
 Day 28 - Wednesday
-  Resident 0 works day 28
+  Resident 0 does not work
   Resident 1 does not work
   Resident 2 does not work
-  Resident 3 does not work
+  Resident 3 works day 28
   Resident 4 does not work
   Resident 5 does not work
 Day 29 - Thursday
-  Resident 0 does not work
+  Resident 0 works day 29
   Resident 1 does not work
-  Resident 2 works day 29
-  Resident 3 does not work
-  Resident 4 does not work
-  Resident 5 works day 29
-Day 30 - Friday
-  Resident 0 works day 30
-  Resident 1 works day 30
   Resident 2 does not work
   Resident 3 does not work
   Resident 4 does not work
   Resident 5 does not work
+Day 30 - Friday
+  Resident 0 does not work
+  Resident 1 does not work
+  Resident 2 does not work
+  Resident 3 works day 30
+  Resident 4 works day 30
+  Resident 5 does not work
 
-Resident 0 works on: [9, 11, 19, 21, 23, 25, 28, 30]
-Resident 1 works on: [7, 9, 11, 17, 23, 25, 27, 30]
-Resident 2 works on: [2, 4, 13, 16, 18, 24, 26, 29]
-Resident 3 works on: [1, 3, 5, 8, 15, 20, 22, 24]
-Resident 4 works on: [2, 4, 10, 12, 14, 16, 18, 20]
-Resident 5 works on: [1, 3, 6, 10, 12, 14, 17, 29]
+Resident 0 works on: [2, 4, 16, 18, 21, 23, 25, 29]
+Resident 1 works on: [6, 8, 10, 12, 17, 19, 22, 24]
+Resident 2 works on: [10, 14, 16, 18, 20, 23, 25, 27]
+Resident 3 works on: [2, 4, 8, 17, 24, 26, 28, 30]
+Resident 4 works on: [1, 3, 5, 7, 9, 11, 13, 30]
+Resident 5 works on: [1, 3, 5, 7, 9, 11, 13, 15]
 
-Solution search limit number reached after 500. Stopping search.
 
 Statistics
-  - conflicts       : 28
-  - branches        : 23282
-  - wall time       : 0.14108267800000002 s
-  - solutions found : 500
+  - conflicts       : 78
+  - branches        : 558
+  - wall time       : 0.010761462000000001 s
+  - solutions found : 2
